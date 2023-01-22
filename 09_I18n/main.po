@@ -1,0 +1,62 @@
+# Russian translations for PACKAGE package
+# Английские переводы для пакета PACKAGE.
+# Copyright (C) 2023 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Никита Арсенин <arsenin70@gmail.com>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-22 20:49+0300\n"
+"PO-Revision-Date: 2023-01-22 20:55+0300\n"
+"Last-Translator: Никита Арсенин <arsenin70@gmail.com>\n"
+"Language-Team: Russian <gnu@d07.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: main.c:19
+#, c-format
+msgid "Please pick a random number from 1 to 100\n"
+msgstr "Пожалуйста, выберете число от 1 до 100\n"
+
+#: main.c:20
+#, c-format
+msgid "Let's get started\n"
+msgstr "Давайте начнем\n"
+
+#: main.c:24
+#, c-format
+msgid "Is your number larger than %d?\n"
+msgstr "Загаданное число больше %d?\n"
+
+#: main.c:29
+#, c-format
+msgid ""
+"Input went very wrong\n"
+"Please, enter y or n\n"
+msgstr ""
+"Что-то пошло не так\n"
+"Пожалуйста, введите д или н\n"
+
+#: main.c:33
+msgid "y"
+msgstr "д"
+
+#: main.c:35
+msgid "n"
+msgstr "н"
+
+#: main.c:38
+#, c-format
+msgid "Please, enter y or n\n"
+msgstr "Пожалуйста, введите д или н\n"
+
+#: main.c:42
+#, c-format
+msgid "You have picked number %d!\n"
+msgstr "Вы загадали число %d!\n"

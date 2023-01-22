@@ -1,0 +1,99 @@
+# Russian translations for PACKAGE package
+# Английские переводы для пакета PACKAGE.
+# Copyright (C) 2023 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Никита Арсенин <arsenin70@gmail.com>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-22 23:36+0300\n"
+"PO-Revision-Date: 2023-01-22 23:37+0300\n"
+"Last-Translator: Никита Арсенин <arsenin70@gmail.com>\n"
+"Language-Team: Russian <gnu@d07.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: main.c:74
+#, c-format
+msgid ""
+"OVERVIEW: number guesser\n"
+"\n"
+msgstr ""
+"ОБЗОР: угадыватель чисел\n"
+"\n"
+
+#: main.c:75
+#, c-format
+msgid ""
+"USAGE: main [options] \n"
+"\n"
+msgstr ""
+"ИСПОЛЬЗОВАНИЕ: main [параметры] \n"
+"\n"
+
+#: main.c:76
+#, c-format
+msgid ""
+"OPTIONS:\n"
+"\t-r\tPrint numbers in roman numerals\n"
+msgstr ""
+"ПАРАМЕТРЫ:\n"
+"\t-r\tВывод числа в римской системе счисления\n"
+
+#: main.c:99
+#, c-format
+msgid "Please pick a random number from 1 to 100\n"
+msgstr "Пожалуйста, загадайте число от 1 до 100\n"
+
+#: main.c:100
+#, c-format
+msgid "Let's get started\n"
+msgstr "Давайте начнем!\n"
+
+#: main.c:105
+#, c-format
+msgid "Is your number larger than %s?\n"
+msgstr "Загаданное число больше чем %s?\n"
+
+#: main.c:107
+#, c-format
+msgid "Is your number larger than %d?\n"
+msgstr "Загаданное число больше чем %d?\n"
+
+#: main.c:112
+#, c-format
+msgid ""
+"Input went very wrong\n"
+"Please, enter y or n\n"
+msgstr ""
+"Что-то сломалось\n"
+"Пожалуйста, введите д или н\n"
+
+#: main.c:116
+msgid "y"
+msgstr "д"
+
+#: main.c:118
+msgid "n"
+msgstr "н"
+
+#: main.c:121
+#, c-format
+msgid "Please, enter y or n\n"
+msgstr "Пожалуйста, введите д или н\n"
+
+#: main.c:126
+#, c-format
+msgid "You have picked number %s!\n"
+msgstr "Вы загадали число %s!\n"
+
+#: main.c:128
+#, c-format
+msgid "You have picked number %d!\n"
+msgstr "Вы загадали число %d!\n"
